@@ -1,0 +1,44 @@
+body {
+    padding: 0rem;
+    margin: 0rem;
+}
+
+body *{
+    padding: 0.5rem;
+}
+
+header{
+    height: min-content;
+    width: auto;
+    padding: 1rem 2rem;
+    color: #fffcf5;
+    background-color: #374375;
+}
+
+.icon.header{
+    width: 2rem;
+    height: 2rem;
+}
+
+img.food.m{
+    min-width: 16rem;
+    max-width: 24rem;
+    width: auto;
+    border-radius: 64rem;
+}
+
+h1, h2{
+    font-family: "Playfair Display", serif;
+    margin: 0rem;
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+h2{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
